@@ -1,7 +1,8 @@
 **R is a programming language**.
 
 R is often used for **statistical computing** and **graphical presentation** to *analyze* and *visualize data*.  
-https://www.w3schools.com/r/default.asp
+https://www.w3schools.com/r/default.asp  
+https://www.programiz.com/r
 
 ---
 
